@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Christ Revealed Cleaning</title>
+<style>
+    body { font-family: Arial, sans-serif; margin: 0; padding: 0; line-height: 1.6; color: #333; }
+    header, footer { background-color: #2E8B57; color: #fff; padding: 20px 0; text-align: center; }
+    nav a { color: #fff; margin: 0 15px; text-decoration: none; font-weight: bold; }
+    .container { width: 90%; max-width: 1200px; margin: auto; padding: 20px 0; }
+    h1, h2, h3 { color: #2E8B57; }
+    .services, .testimonials, .booking-form { margin-bottom: 40px; }
+    .service-category { margin-bottom: 20px; }
+    footer a { margin: 0 10px; color: #fff; text-decoration: none; }
+    form input, form textarea, form select, form button { display: block; width: 100%; padding: 10px; margin: 10px 0; border-radius: 5px; border: 1px solid #ccc; }
+    form button { background-color: #2E8B57; color: #fff; border: none; cursor: pointer; }
+    form button:hover { background-color: #246b45; }
+</style>
+</head>
+<body>
+
+<header>
+    <h1>Christ Revealed Cleaning</h1>
+    <p><em>When love serves, Christ is revealed</em></p>
+    <nav>
+        <a href="#home">Home</a>
+        <a href="#about">About</a>
+        <a href="#services">Services</a>
+        <a href="#testimonials">Testimonials</a>
+        <a href="#booking">Booking</a>
+        <a href="#contact">Contact</a>
+    </nav>
+</header>
+
+<section id="home" class="container">
+    <h2>Welcome to Christ Revealed Cleaning</h2>
+    <p>We provide high-quality, reliable, and affordable cleaning solutions for homes, offices, and commercial spaces. Call us at <strong>+256 708 215925</strong> or email <strong>christrevealedcleaning@gmail.com</strong> to book your service today!</p>
+</section>
+
+<section id="about" class="container">
+    <h2>About Us</h2>
+    <p>Christ Revealed Cleaning is a professional cleaning company that creates clean, healthy, and organized environments. Using modern cleaning techniques, eco-friendly supplies, and well-trained staff, we serve homes, offices, and commercial spaces with integrity and excellence.</p>
+</section>
+
+<section id="services" class="container services">
+    <h2>Our Services</h2>
+
+    <div class="service-category">
+        <h3>Residential Cleaning</h3>
+        <ul>
+            <li>General house cleaning</li>
+            <li>Deep cleaning</li>
+            <li>Move-in/move-out cleaning</li>
+            <li>Kitchen, bathroom, bedroom cleaning</li>
+            <li>Upholstery & mattress cleaning</li>
+        </ul>
+    </div>
+
+    <div class="service-category">
+        <h3>Commercial Cleaning</h3>
+        <ul>
+            <li>Office cleaning</li>
+            <li>School/institution cleaning</li>
+            <li>Shop/retail cleaning</li>
+            <li>Post-construction cleaning</li>
+        </ul>
+    </div>
+
+    <div class="service-category">
+        <h3>Specialized Services</h3>
+        <ul>
+            <li>Carpet and rug cleaning</li>
+            <li>Sofa & furniture cleaning</li>
+            <li>Window cleaning</li>
+            <li>Floor scrubbing, buffing & polishing</li>
+            <li>Fumigation, disinfection & sanitation</li>
+            <li>Room arrangement</li>
+            <li>Interior designing</li>
+        </ul>
+    </div>
+
+    <div class="service-category">
+        <h3>Outdoor & Compound Work</h3>
+        <ul>
+            <li>Compound sweeping</li>
+            <li>Cobweb removal</li>
+            <li>Waste/garbage clearing</li>
+        </ul>
+    </div>
+</section>
+
+<section id="testimonials" class="container testimonials">
+    <h2>Testimonials</h2>
+    <p>"Excellent service! My house has never been this clean." – Jane Doe</p>
+    <p>"Professional, reliable, and thorough. Highly recommend." – John Smith</p>
+</section>
+
+<section id="booking" class="container booking-form">
+    <h2>Book a Service</h2>
+    <form action="mailto:christrevealedcleaning@gmail.com" method="post" enctype="text/plain">
+        <input type="text" name="name" placeholder="Your Name" required>
+        <input type="email" name="email" placeholder="Your Email" required>
+        <input type="tel" name="phone" placeholder="Your Phone Number" required>
+        <select name="service" required>
+            <option value="">Select Service</option>
+            <option value="Residential">Residential Cleaning</option>
+            <option value="Commercial">Commercial Cleaning</option>
+            <option value="Specialized">Specialized Services</option>
+            <option value="Outdoor">Outdoor & Compound Work</option>
+        </select>
+        <input type="date" name="date" required>
+        <textarea name="notes" placeholder="Additional Notes/Instructions"></textarea>
+        <button type="submit">Submit Request</button>
+    </form>
+</section>
+
+<section id="contact" class="container">
+    <h2>Contact Us</h2>
+    <p>Phone: +256 708 215925</p>
+    <p>Email: christrevealedcleaning@gmail.com</p>
+    <p>Location: Mutungo, Uganda</p>
+</section>
+
+<footer>
+    <p>&copy; 2025 Christ Revealed Cleaning</p>
+    <p>Follow us on 
+        <a href="https://www.instagram.com/christ_revealed_cleaning_?igsh=YzdnaDh3ZnM2cG0y&utm_source=qr" target="_blank">Instagram</a> | 
+        <a href="https://www.tiktok.com/@christ_revealed_?_r=1&_t=ZM-925KpPIXU8O" target="_blank">TikTok</a>
+    </p>
+</footer>
+
+</body>
+</html>
